@@ -1,0 +1,55 @@
+@media (max-width:1199px) {
+    .banner-section {padding: 50px 0px; }
+    .banner-section .banner-content h5 {font-size: 25px; width: 73%;}
+    .banner-section .banner-content h1 { font-size: 80px; padding-top: 15px;}
+    .service-section .service-content {padding-top: 20px;}    
+}
+@media (max-width:991px) {
+    .heading {font-size: 40px;}
+    .banner-section {padding: 20px 0px;}
+    .banner-section .banner-content h5 {font-size: 23px;width: 93%;}
+    .banner-section .banner-content h1 {font-size: 66px; padding-top: 10px;}
+    .banner-img  {width: 400px;}
+    .about-section {padding-bottom: 0px;}
+    .blog-section {padding-bottom: 0px;}
+    .blog-section .heading-tab p br {display: none;}
+    .blog-section .blog-content h3 {font-size: 30px;}
+    .blog-section .blog-content p{padding-bottom: 0px;}
+    .service-section .service-content .service-text h4 {font-size: 30px;}
+    .service-section .service-content .service-text p { font-size: 15px;padding-bottom: -26px; line-height: 20px; }
+    .service-content .slick-dots {top: -15px;}
+    .service-section .container.shadow.rounded { padding: 0px 25px;}
+    .contact-section .contact-content .contact-logo img {padding-top: 39px;}
+    .contact-section .copyright-icons ul {padding-left: 125px; }
+    .contact-section .contact-icons {padding-left: 162px;}
+    .contact-section .contact-content p {padding-bottom: 0px;}
+}
+@media (max-width:767px) {
+    .banner-section {padding: 60px 0px;}
+    .banner-section .banner-content h5 {font-size: 29px;width: 75%;}
+    .banner-section .banner-content h1 {font-size: 80px;padding-top: 20px;}
+    .banner-img {width: 400px;margin: auto;}
+    .about-section {padding-bottom: 0px;}
+    .blog-section .blog-tab {margin-bottom: 35px;}
+    .service-section {padding-top: 0px;}
+    .service-section .service-img { padding-bottom: 30px;}
+    .form-section {padding: 40px 0px;}
+    .contact-section {background-size: initial;}
+    .contact-section .contact-icons {padding-left: 0px;}
+    .contact-section .contact-icons {padding: 0px 0px;}
+    .contact-section .copyright-icons ul {padding-left: 0px;}
+    .contact-section .copyright-icons ul {justify-content: flex-start;}
+    .form-section {background-image: url('../images/banner-1.png');}
+}
+
+@media (max-width:480px) {
+   .banner-img {width: 400px;}
+   section.blog-section.section-padding {padding-bottom: 0px;}
+   .banner-section .banner-content h1 {font-size: 70px;padding-top: 10px;}
+   .banner-section .banner-content h5 {width: 71%;font-size: 24px;}
+}
+
+@media (max-width:360px) {
+    .banner-section .banner-content h1 { font-size: 70px;padding-top: 20px;}
+    .banner-section .banner-content h5 {width: 100%;font-size: 25px;}
+}
